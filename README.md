@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @apalekardev
-- 👀 I’m interested in Software and ServiceNow Development
-- 🌱 I’m currently learning Serverless Architecture
+- 👋 Hi, I’m Akshay Palekar
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Serverless Architecture and DevOps
 - 📫 How to reach me apalekar.dev@gmail.com
 
 <!---
