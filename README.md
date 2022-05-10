@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akshay Palekar
-- 👀 I’m interested in Software Development
+- 👀 I’m a Software Developer
 - 🌱 I’m currently learning Serverless Architecture and DevOps
 - 📫 How to reach me apalekar.dev@gmail.com
 
